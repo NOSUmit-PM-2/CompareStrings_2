@@ -1,0 +1,15 @@
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.exe
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.deps.json
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.runtimeconfig.json
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.dll
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\bin\Debug\net8.0\CompareStrings.pdb
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.AssemblyInfoInputs.cache
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.AssemblyInfo.cs
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.csproj.CoreCompileInputs.cache
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.dll
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\refint\CompareStrings.dll
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.pdb
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.genruntimeconfig.cache
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\ref\CompareStrings.dll
+D:\ПМ2025\МД\2 курс\CompareStrings\CompareStrings\obj\Debug\net8.0\CompareStrings.sourcelink.json
